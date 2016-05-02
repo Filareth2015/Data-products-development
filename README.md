@@ -1,7 +1,7 @@
 Coursera [Developing Data Products](https://www.coursera.org/course/devdataprod) course project
 ==============================
 
-App can be found [here](https://zaninpy.shinyapps.io/Sample_size_calculation/).
+App can be found [here](https://zaninpy.shinyapps.io/Sample_size_calculation/).      
 Presentation for app can be found [here](http://rpubs.com/Zanin_Pavel/177631).
 
 
